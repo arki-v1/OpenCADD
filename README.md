@@ -5,7 +5,7 @@ An open source computer aided design and drafting software
 ### Todo
 
 * Write the toolbox
-  * Add
+  * Add important functions
 * Write the gui
   * Decide functionality
   * Location of menus
