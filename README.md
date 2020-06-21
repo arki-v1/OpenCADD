@@ -7,11 +7,11 @@ An open source computer aided design and drafting software
 * Write the toolbox
   * Add
 * Write the gui
- * Decide functionality
- * Location of menus
- * 2D drawing
- * 3D drawing (later)
+  * Decide functionality
+  * Location of menus
+  * 2D drawing
+  * 3D drawing (later)
 * Write the main program
- * Decide functionality
- * Link toolbox and gui
+  * Decide functionality
+  * Link toolbox and gui
 * Add cross-compile capabilities
