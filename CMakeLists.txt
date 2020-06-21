@@ -11,3 +11,11 @@ add_executable(OpenCADD
         main.c
         tbox.c
         tbox.h)
+
+#if(WIN32)
+#    set()
+#elseif(APPLE)
+#    set()
+#else()
+#    set()
+#endif()
