@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/OpenCADD.dir/gui.c.o CMakeFiles/OpenCADD.dir/main.c.o CMakeFiles/OpenCADD.dir/tbox.c.o  -o OpenCADD 
