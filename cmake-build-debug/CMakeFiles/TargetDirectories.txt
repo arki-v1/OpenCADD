@@ -1,3 +1,0 @@
-/run/media/arrank/HDD/Code/Git Repos/OpenCADD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/run/media/arrank/HDD/Code/Git Repos/OpenCADD/cmake-build-debug/CMakeFiles/edit_cache.dir
-/run/media/arrank/HDD/Code/Git Repos/OpenCADD/cmake-build-debug/CMakeFiles/OpenCADD.dir
